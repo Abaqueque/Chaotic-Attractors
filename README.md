@@ -1,9 +1,9 @@
 # Chaotic-Attractors
-**Controls**
-Movement Keys: W, A, S, D
-Camera Up: Space
-Camera Down: L-Shift 
-Switch Between Attractors: Q, E
+**Controls**\
+Movement Keys: W, A, S, D\
+Camera Up: Space\
+Camera Down: L-Shift\ 
+Switch Between Attractors: Q, E\
 
 
 **Lorenz Attractor** 
